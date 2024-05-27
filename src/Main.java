@@ -8,9 +8,13 @@ public class Main {
         TouchPhone obj3 = new TouchPhone("Touch Phone", 2023,"Gold","Apple","Iphone 15 pro",16);
 
 
-        //comment
-        // hi batch 86
-        String name="aaisha";
+
+        int age = 20;
+        String Name = "Zafrana";
+
+        int age2 = 19;
+        String Name3 = "Aiza";
+
 
 
         obj1.call();
