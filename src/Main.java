@@ -10,7 +10,7 @@ public class Main {
 
         //comment
         // hi batch 86
-
+        String name="aaisha";
 
 
         obj1.call();
