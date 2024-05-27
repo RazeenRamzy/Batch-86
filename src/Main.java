@@ -11,6 +11,8 @@ public class Main {
         //comment
         // hi batch 86
 
+        int age = 20;
+        String name = "osel";
 
 
         obj1.call();
